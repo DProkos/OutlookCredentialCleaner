@@ -38,3 +38,5 @@ pyinstaller --onefile --windowed --icon=icons/icon.ico --name "OutlookCredential
 ## Developed by
 
 **Διονύσης Πρόκος**
+
+Download: https://github.com/DProkos/OutlookCredentialCleaner/releases/tag/v1.0

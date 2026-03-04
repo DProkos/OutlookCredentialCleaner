@@ -14,6 +14,10 @@
 - Preview mode για να δείτε τι θα διαγραφεί πριν το κάνετε
 - Progress bar και status
 
+## Download
+
+[⬇ Download Outlook Credential Cleaner](https://github.com/DProkos/OutlookCredentialCleaner/releases/download/v1.0/OutlookCredentialCleaner.exe)
+
 ## Εγκατάσταση
 
 ```bash
@@ -36,7 +40,3 @@ pyinstaller --onefile --windowed --icon=icons/icon.ico --name "OutlookCredential
 ## Developed by
 
 **Διονύσης Πρόκος**
-
-## Download
-
-[⬇ Download Outlook Credential Cleaner](https://github.com/DProkos/OutlookCredentialCleaner/releases/download/v1.0/OutlookCredentialCleaner.exe)

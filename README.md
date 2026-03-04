@@ -14,7 +14,7 @@
 - Preview mode για να δείτε τι θα διαγραφεί πριν το κάνετε
 - Progress bar και status
 
-## Download
+## Download Exe
 
 [⬇ Download Outlook Credential Cleaner](https://github.com/DProkos/OutlookCredentialCleaner/releases/download/v1.0/OutlookCredentialCleaner.exe)
 

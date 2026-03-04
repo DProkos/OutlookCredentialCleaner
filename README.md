@@ -33,8 +33,6 @@ pip install pyinstaller
 pyinstaller --onefile --windowed --icon=icons/icon.ico --name "OutlookCredentialCleaner" --add-data "icons;icons" outlook_credential_cleaner.py
 ```
 
-Το exe θα βρεθεί στο `dist/OutlookCredentialCleaner.exe`
-
 ## Developed by
 
 **Διονύσης Πρόκος**
